@@ -28,7 +28,7 @@ drink = [
     "Coke",
     "Sprite",
     "Mango Passion Fruit Fizz",
-    "Green Apple Fruit Fizz"
+    "Green Apple Fruit Fizz",
     "Pineapple Juice",
     "Apple Juice",
     "Fruit McFloat",
