@@ -5,7 +5,7 @@ import random
 starter = [
     "6-pc Chicken McNuggets",
     "Chicken McDo",
-    "Mac Spaghetti"
+    "Mac Spaghetti",
 ]
 
 burger = [
